@@ -9,7 +9,7 @@
   <img align="right" height="270" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://www.sprinklr.com/" target="blank">Sprinklr</a>
+- 🔭 I’m a Data Specialist at <a href="https://www.ttec.com" target="blank">TTECr</a>
 
 - 🌱 I’m currently Working on Web Platform (Next, React, Typescript and GraphQL)
 
