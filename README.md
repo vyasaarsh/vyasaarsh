@@ -9,7 +9,7 @@
   <img align="right" height="270" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m a Data Specialist at <a href="https://www.ttec.com" target="blank">TTECr</a>
+- 🔭 I’m a Data Specialist at <a href="https://www.ttec.com" target="blank">TTEC</a>
 
 - 🌱 I’m currently Working on Web Platform (Next, React, Typescript and GraphQL)
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **anything related to tech world**
 
-- 📫 How to reach me **taksuparth@gmail.com**
+- 📫 Reach me at **aarsh.vyas1997@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/taksuparth/taksuparth/blob/main/Parth%20CV.pdf" target="blank">Resume</a>
 <br/>
