@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aarsh</h1>
-<h3 align="center">Technology Enthusiast & Avid Learner</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vyasaarsh&label=Profile%20views&color=0e75b6&style=flat" alt="aarshvyas" /> </p>
 
 <p align="left"> <a href="https://twitter.com/taksuparth" target="blank"><img src="https://img.shields.io/twitter/follow/taksuparth?logo=twitter&style=for-the-badge" alt="taksuparth" /></a> </p>
 
