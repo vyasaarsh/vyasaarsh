@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aarsh</h1>
 
-<p align="left"> <a href="https://twitter.com/aarshvyas" target="blank"><img src="https://img.shields.io/twitter/follow/taksuparth?logo=twitter&style=for-the-badge" alt="aarshvyas" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aarshvyas" target="blank"><img src="https://img.shields.io/twitter/follow/aarshvyas?logo=twitter&style=for-the-badge" alt="aarshvyas" /></a> </p>
 
 <a target="_blank" align="center">
   <img align="right" height="270" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
