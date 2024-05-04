@@ -2,23 +2,19 @@
 
 **`Your Go To Data Guy (Analyst/Scientist/Engineer)`**
 
-I am Aarsh and I am interested in all things Data, AI and Machine Learning Systems. I am currently working as a Data Specialist at [TTEC](https://www.ttec.com). In my free time, I like to read, hike, travel, and explore different music genres over a cup of tea (In no particular order). 
-
-<p align="left"> <a href="https://twitter.com/aarshvyas" target="blank"><img src="https://img.shields.io/twitter/follow/aarshvyas?logo=twitter&style=for-the-badge" alt="aarshvyas" /></a> </p>
-
 <a target="_blank" align="center">
   <img align="right" height="270" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 🔭 I’m a Data Specialist at <a href="https://www.ttec.com" target="blank">TTEC</a>
 
-- 🌱 I’m currently Working on Web Platform (Next, React, Typescript and GraphQL)
+- 🌱 I possess extensive expertise in crafting resilient, long-lasting, adaptable, and fortified data products and services.
 
-- 🤝 I’m available for freelancing.
+- 🕛  My professional background is rooted in constructing robust, fault-tolerant, and elastic data solutions, leveraging the entire spectrum of data tools and the contemporary data stack. My proficiency spans across data analysis, data science, and data engineering realms, ensuring the creation of scalable, high-performance data architectures that are fortified against security threats and designed for optimal availability."
 
-- 🌱 I’m currently learning about web3
+- 🌱 I’m currently learning about web3.
 
-- 💬 Ask me about **anything related to tech world**
+- 🤝 I’m available for freelancing.🕛
 
 - 📫 Reach me at **aarsh.vyas1997@gmail.com**
 <br/>
