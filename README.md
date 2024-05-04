@@ -2,7 +2,7 @@
 
 **`Your Go To Data Guy (Analyst/Scientist/Engineer)`**
 
-<h1 align="center">Hi 👋, I'm Aarsh</h1>
+I am Aarsh and I am interested in all things Data, AI and Machine Learning Systems. I am currently working as a Data Specialist at [TTEC](https://www.ttec.com). In my free time, I like to read, hike, travel, and explore different music genres over a cup of tea (In no particular order). 
 
 <p align="left"> <a href="https://twitter.com/aarshvyas" target="blank"><img src="https://img.shields.io/twitter/follow/aarshvyas?logo=twitter&style=for-the-badge" alt="aarshvyas" /></a> </p>
 
