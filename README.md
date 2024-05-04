@@ -8,13 +8,13 @@
 
 - 🔭 I’m a Data Specialist at <a href="https://www.ttec.com" target="blank">TTEC</a>
 
-- 🌱 I possess extensive expertise in crafting resilient, long-lasting, adaptable, and fortified data products and services.
+- 👨‍💻 I possess extensive expertise in crafting resilient, long-lasting, adaptable, and fortified data products and services.
 
-- 🕛  My professional background is rooted in constructing robust, fault-tolerant, and elastic data solutions, leveraging the entire spectrum of data tools and the contemporary data stack. My proficiency spans across data analysis, data science, and data engineering realms, ensuring the creation of scalable, high-performance data architectures that are fortified against security threats and designed for optimal availability."
+- 🕛 My professional background is rooted in constructing robust, fault-tolerant, and elastic data solutions, leveraging the entire spectrum of data tools and the modern data stack. My proficiency across data analysis, data science, and data engineering realms, ensuring the creation of scalable, high-performance data architecture that are fortified against security threats and designed for optimal availability. 
 
 - 🌱 I’m currently learning about web3.
 
-- 🤝 I’m available for freelancing.🕛
+- 🤝 I’m available for freelancing.
 
 - 📫 Reach me at **aarsh.vyas1997@gmail.com**
 <br/>
