@@ -18,6 +18,9 @@
 
 - 📫 Reach me at **aarsh.vyas1997@gmail.com**
 <br/>
+
+Check out my Portfolio for all of my projects, micro-projects, skills, certificates, and achievements.
+
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
