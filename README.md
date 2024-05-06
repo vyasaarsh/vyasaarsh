@@ -41,12 +41,3 @@ Check out my Portfolio for all of my projects, micro-projects, skills, certifica
       </div>
 
 </p>
-# Aarsh Vyas
-
-**`Your Go To Data Guy (Anakyst/Scientis/Engineer)`**
-
-### Hi there! Welcome to my Github Profile! 👋
-
-I am Aarsh and I am interested in all things Data, AI and Machine Learning Systems. I am currently working as a Data Specialist at [TTEC](https://www.ttec.com). In my free time, I like to read, hike, travel, and explore different music genres over a cup of tea (In no particular order).  
-
-Check out my [Portfolio](https://archd3sai.github.io/projects/) for all of my projects, micro-projects, skills, certificates, and achievements. 
